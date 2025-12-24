@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="QuickKart.UnitTest/QuickKart.UnitTest.csproj" Id="79894879-7e89-4caf-ba11-6065967a52b7" />
+  <Project Path="QuickKartBL/QuickKartBL.csproj" />
+  <Project Path="QuickKartTest/QuickKartTest.csproj" />
+</Solution>

@@ -1,0 +1,11 @@
+C:\Users\Muskan Kalasgeri\source\repos\QuickKart\QuickKartBL\bin\Debug\net10.0\QuickKartBL.deps.json
+C:\Users\Muskan Kalasgeri\source\repos\QuickKart\QuickKartBL\bin\Debug\net10.0\QuickKartBL.dll
+C:\Users\Muskan Kalasgeri\source\repos\QuickKart\QuickKartBL\bin\Debug\net10.0\QuickKartBL.pdb
+C:\Users\Muskan Kalasgeri\source\repos\QuickKart\QuickKartBL\obj\Debug\net10.0\QuickKartBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muskan Kalasgeri\source\repos\QuickKart\QuickKartBL\obj\Debug\net10.0\QuickKartBL.AssemblyInfoInputs.cache
+C:\Users\Muskan Kalasgeri\source\repos\QuickKart\QuickKartBL\obj\Debug\net10.0\QuickKartBL.AssemblyInfo.cs
+C:\Users\Muskan Kalasgeri\source\repos\QuickKart\QuickKartBL\obj\Debug\net10.0\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\Muskan Kalasgeri\source\repos\QuickKart\QuickKartBL\obj\Debug\net10.0\QuickKartBL.dll
+C:\Users\Muskan Kalasgeri\source\repos\QuickKart\QuickKartBL\obj\Debug\net10.0\refint\QuickKartBL.dll
+C:\Users\Muskan Kalasgeri\source\repos\QuickKart\QuickKartBL\obj\Debug\net10.0\QuickKartBL.pdb
+C:\Users\Muskan Kalasgeri\source\repos\QuickKart\QuickKartBL\obj\Debug\net10.0\ref\QuickKartBL.dll
