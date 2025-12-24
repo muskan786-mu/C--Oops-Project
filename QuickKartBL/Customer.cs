@@ -158,9 +158,10 @@ namespace QuickKartBL
 
         public string AddDeliveryAddress(params string[] deliveryAddress)
         {
-            DeliveryAddress = deliveryAddress;
+            this.DeliveryAddress = deliveryAddress;
             return "Delivery address added successfully!";
         }
+
 
         
 

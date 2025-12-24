@@ -140,7 +140,24 @@ namespace QuickKartTest
             Console.WriteLine("Dicount for the product ={0}",discount);
             Console.WriteLine("Minimun Price ={0}",minPrice);
             Console.WriteLine("Maximum Price ={0}",maxPrice);
+            Console.WriteLine("Thank you");
 
+            //Customer customerOne = new Customer(1001, "Taylor", "774,Banglore", 9887765764, "taylor@gmail.com", "Regular",2005 - 08 - 25, Gender.Male, "Tay@123");
+            //Customer customerTwo = new Customer(1002, "Taylor", "774,Banglore", 9887765764, "taylor@gmail.com", "Regular", 2005 - 08 - 25, Gender.Male, "Tay@123");
+            //Customer customerThree = new Customer(1003, "Taylor", "774,Banglore", 9887765764, "taylor@gmail.com", "Regular", 2005 - 08 - 25, Gender.Male, "Tay@123");
+
+            //string result1 = customerOne.AddDeliveryAddress("5th block Mysore");
+            //Console.WriteLine(result1);
+            //result1 = customerTwo.AddDeliveryAddress("2nd block Banglore");
+            //Console.WriteLine(result1);
+            //result1 = customerThree.AddDeliveryAddress("10th Main,Windham Gardens", "995,Wilson Garden", "17th Square Block,New York");
+            //Console.WriteLine(result1);
+
+            //Console.WriteLine("****************************************************************************");
+            //foreach(string address in customerThree.DeliveryAddress)
+            //{
+            //    Console.WriteLine(address);
+            //}
 
 
 
